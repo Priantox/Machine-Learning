@@ -314,7 +314,7 @@
 | # | Algorithm |
 |:-:|-----------|
 | 1 | K-Means Clustering |
-| 2 | Hierarchical Clustering |
+| 2 | DBSCAN |
 | 3 | Dimensionality Reduction (PCA) |
 
 ---
